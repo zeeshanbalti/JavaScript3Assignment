@@ -1,8 +1,8 @@
 // Question_1
 
-// var num = 3;
-// var newNum = num + 5;
-// document.write(newNum)
+//  var num = 3;
+//  var newNum = num + 5 ;
+//  document.write(newNum)
 
   // Question_2
 
@@ -10,8 +10,8 @@
 
 
 // var num = 3;
-// var newNum = num - 5;
-// document.write(newNum)
+//  var newNum = num - 5;
+//  document.write(newNum)
 
 // Multiplication
 
@@ -121,3 +121,11 @@
 // var parDaySnake = 3;
 // var allYourSnake = (estimateMaximumYear - yourage) * parDaySnake;
 // document.write("You will need" + "  " + allYourSnake + " " + favouriteSnake + "to last you until ripe old age of 65"); 
+
+
+
+
+// var age = 12;
+// var drive = age >= 11 ? "Yes" : "no";
+// document.write(drive);
+ 
